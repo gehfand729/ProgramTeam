@@ -4,4 +4,4 @@
 
 ## Memento 패턴
 
-## 
+## singleton 패턴

@@ -54,7 +54,7 @@ void SetConsoleView()
     system("title [HangManGame] by.오조라고");
 }
 
-//시작화면 draw (*수정*)
+//시작화면 draw
 void DrawReadyGame()
 {
     system("cls");
@@ -112,7 +112,7 @@ void DrawStartGame(int life, int score, vector<string>& pastWord)
     cout << "메인화면 'qq'" << endl;
 }
 
-//사전을 셋팅하는 함수(*수정*)
+//사전을 셋팅하는 함수
 void SetDictionaryEasy(vector<string>& strArreasy)
 {
     ifstream readFromFile;  //file -> program
@@ -167,7 +167,7 @@ void SetDictionaryHard(vector<string>& strArrhard)
     return;
 }
 
-//시작화면 기능(*수정*)
+//시작화면 기능
 int ReadyGame()
 {
     DrawReadyGame();

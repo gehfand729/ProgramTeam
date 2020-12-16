@@ -1,6 +1,6 @@
 //작성자 : 20183487 이승찬
 //오류해결 못함.
-//코드 원본 : 
+//코드 원본 : blockDmask
 
 #include<iostream>
 #include<string>

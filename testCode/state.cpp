@@ -1,3 +1,5 @@
+//작성자 : 20193478 
+
 #include<iostream>
 using namespace std;
 

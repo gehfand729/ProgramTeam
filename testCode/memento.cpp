@@ -1,3 +1,4 @@
+//작성자 : 20183487 이승찬
 
 #include <iostream>
 #include <vector>

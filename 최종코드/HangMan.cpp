@@ -1,4 +1,4 @@
-//오픈소스 - blockDmask
+//오픈소스 - https://github.com/BlockDMask/Hangman_Game
 
 //수정및 작성 - 5팀
 

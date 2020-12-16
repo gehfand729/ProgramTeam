@@ -2,6 +2,8 @@
 
 //수정및 작성 - 5팀
 
+//Level1_words.txt, Level2_words.txt, Level3_words.txt 파일을 추가해야함
+
 #define BLACK 0 
 #define MAGENTA 5 
 #define BROWN 6 

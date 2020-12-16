@@ -1,4 +1,5 @@
-//작성자 : 20193478 박
+//작성자 : 20193478 박예진
+//코드 원본 : blockDmask
 
 #define BLACK 0 
 #define MAGENTA 5 

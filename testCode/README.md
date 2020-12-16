@@ -2,6 +2,6 @@
 
 ## State 패턴
 
-## Memento 패턴
+## [Memento 패턴](https://github.com/gehfand729/ProgramTeam/blob/main/testCode/memento.cpp)
 
 ## singleton 패턴

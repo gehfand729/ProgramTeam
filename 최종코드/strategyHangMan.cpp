@@ -1,4 +1,5 @@
-// 작성자 : 20193439 
+// 작성자 : 20193439 김로하
+//코드 원본 : blockDmask
 
 #include<iostream>
 #include<string>
